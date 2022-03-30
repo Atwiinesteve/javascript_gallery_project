@@ -1,0 +1,63 @@
+/*---font-family: Lexend Decca;---*/
+
+@font-face {
+        font-family: Lexend_Deca;
+        src: url('../fonts/Lexend_Deca/LexendDeca-Regular.ttf');
+    }
+    
+    /*---font-family: Poppins;---*/
+    
+    @font-face {
+        font-family: Poppins;
+        src: url('../fonts/Poppins/Poppins-Bold.ttf');
+    }
+    
+    /*---font-family: OpenSans;---*/
+    
+    @font-face {
+        font-family: Open_Sans;
+        src: url('../fonts/OpenSans/static/OpenSans/OpenSans-Regular.ttf');
+    }
+    
+    /*---font-family: Roboto;---*/
+    
+    @font-face {
+        font-family: Roboto;
+        src: url('../fonts/Roboto/Roboto-Regular.ttf');
+    }
+    
+    /*---font-family: Lato;---*/
+    
+    @font-face {
+        font-family: Lato;
+        src: url('../fonts/Lato/Lato-Regular.ttf');
+    }
+    
+    /*---font-family: Fredoka_One;---*/
+    
+    @font-face {
+        font-family: Fredoka_One;
+        src: url('../fonts/Fredoka_One/FredokaOne-Regular.ttf');
+    }
+    
+    /*---font-family: Kaushan_Script;---*/
+    
+    @font-face {
+        font-family: Kaushan_Script;
+        src: url('../fonts/Kaushan_Script/KaushanScript-Regular.ttf');
+    }
+    
+    /*---font-family: Patrick_Hand;---*/
+    
+    @font-face {
+        font-family: Patrick_Hand;
+        src: url('../fonts/Patrick_Hand/PatrickHand-Regular.ttf');
+    }
+    
+    /*---font-family: Cookie;---*/
+    
+    @font-face {
+        font-family: Cookie;
+        src: url('../fonts/Cookie/Cookie-Regular.ttf');
+    }
+    
